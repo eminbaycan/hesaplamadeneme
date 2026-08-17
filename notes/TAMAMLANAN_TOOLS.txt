@@ -1,0 +1,6 @@
+# Tamamlanan Araçlar
+
+Bu dosya, yapımı ve güncellemeleri kural setimize uygun olarak tamamlanmış araçların listesini içerir.
+
+- Alan Hesaplama (Versiyon: v1.0.0 | Eklendi: 13.08.2026 | Güncellendi: 13.08.2026)
+- Basit Faiz Hesaplama (Versiyon: v1.0.0 | Eklendi: 13.08.2026 | Güncellendi: 13.08.2026)

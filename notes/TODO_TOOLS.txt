@@ -1,0 +1,557 @@
+# Eklenecek Araçlar Listesi
+
+Bu dosya, tüm istekleriniz doğrultusunda kategorize edilmiş ve mükerrer kayıtlardan arındırılmış tam listedir.
+
+## Kategoriler (Toplam 15 Kategori)
+1. Diğer
+2. Vergi
+3. Muhasebe
+4. Zaman
+5. Matematik
+6. Sağlık
+7. Eğitim
+8. Sınav
+9. Finans
+10. Kredi
+11. Ticari
+12. Seyahat
+13. Sigorta
+14. Hukuk
+15. Tekstil
+
+## Diğer
+- Aidat Gecikme Tazminatı Hesaplama
+- Araç Muayene Ücreti Hesaplama
+- Ay Burcu Hesaplama
+- Burç Hesaplama
+- Doğum Haritası Hesaplama
+- Ebced Hesaplama
+- Ek Ders Ücreti Hesaplama
+- Fitre Hesaplama
+- HTML Renk Kodu Hesaplama
+- İddaa Kupon Hesaplama
+- Karar Hesaplama
+- Kelime Sayısı Hesaplama
+- Klima BTU Hesaplama
+- Kuşak Hesaplama
+- MD5 Hesaplama
+- Parmak Alfabesi Hesaplama
+- Şifre Hesaplama
+- Yükselen Burç Hesaplama
+- Zekat Hesaplama
+
+## Vergi
+- Damga Vergisi Hesaplama
+- Değer Artış Kazancı Vergisi Hesaplama
+- Değerli Konut Vergisi Hesaplama
+- Emlak Vergisi Hesaplama
+- Gelir Vergisi Hesaplama
+- Gümrük Vergisi Hesaplama
+- Kambiyo Vergisi Hesaplama
+- KDV Hesaplama
+- KDV Tevkifatı Hesaplama
+- Kira Vergisi Hesaplama
+- Kira Stopaj Hesaplama
+- Konaklama Vergisi Hesaplama
+- Kurumlar Vergisi Hesaplama
+- MTV Hesaplama
+- ÖTV Hesaplama
+- Veraset ve İntikal Vergisi Hesaplama
+- Vergi Gecikme Faizi Hesaplama
+
+## Muhasebe
+- Amortisman Hesaplama
+- Asgari Geçim İndirimi Hesaplama
+- Binek Araç Gider Kısıtlaması Hesaplama
+- Brütten Nete Maaş Hesaplama
+- Doğum İzni Hesaplama
+- Emeklilik Borçlanması Hesaplama
+- Emeklilik Hesaplama
+- Fazla Mesai Ücreti Hesaplama
+- Gecikme Zammı Hesaplama
+- Huzur Hakkı Hesaplama
+- İhbar Tazminatı Hesaplama
+- İşsizlik Maaşı Hesaplama
+- Kıdem Tazminatı Hesaplama
+- Kısa Çalışma Ödeneği Hesaplama
+- Maaş Hesaplama
+- Netten Brüte Maaş Hesaplama
+- Serbest Meslek Makbuzu Hesaplama
+- Yıllık İzin Hesaplama
+- Yıllık İzin Ücreti Hesaplama
+- Yeniden Değerleme Oranı Hesaplama
+- Yolluk Hesaplama
+
+## Zaman
+- Ay Evresi Hesaplama
+- Bayram Namazı Saati Hesaplama
+- Cuma Namazı Saati Hesaplama
+- Gün Batımı Hesaplama
+- Gün Doğumu Hesaplama
+- Hafta Hesaplama
+- Hangi Gün Hesaplama
+- Hicri Takvim Hesaplama
+- İki Tarih Arasındaki Gün Sayısını Hesaplama
+- İki Tarih Arasındaki Hafta Sayısını Hesaplama
+- İş Günü Hesaplama
+- Kaç Gün Kaldı Hesaplama
+- Kaç Gün Oldu Hesaplama
+- Ramazanın Kaçıncı Günü Hesaplama
+- Saat Farkı Hesaplama
+- Saat Kaç Hesaplama
+- Şafak Hesaplama
+- Tarih Hesaplama
+- Vade Hesaplama
+- Yaş Hesaplama
+- Yılın Kaçıncı Günü Hesaplama
+
+## Matematik
+- Alan Hesaplama
+- Altın Oran Hesaplama
+- Asal Çarpan Hesaplama
+- Basit Faiz Hesaplama
+- Bileşik Faiz Hesaplama
+- Çevre Hesaplama
+- EBOB EKOK Hesaplama
+- Faiz Hesaplama
+- Faktöriyel Hesaplama
+- Hacim Hesaplama
+- İnç Hesaplama
+- Kombinasyon Hesaplama
+- Köklü Sayı Hesaplama
+- Metrekare Hesaplama
+- Mil Hesaplama
+- Modüler Aritmetik Hesaplama
+- Oran Hesaplama
+- Permütasyon Hesaplama
+- Rastgele Sayı Hesaplama
+- Sayı Okunuşu Hesaplama
+- Standart Sapma Hesaplama
+- Taban Dönüşümü Hesaplama
+- Üslü Sayı Hesaplama
+- Yüzde Hesaplama
+
+## Sağlık
+- Adet Günü Hesaplama
+- Aşı Takvimi Hesaplama
+- Bazal Metabolizma Hızı Hesaplama
+- Bebek Boyu Hesaplama
+- Bebek Kilosu Hesaplama
+- Bel / Kalça Oranı Hesaplama
+- Doğum Tarihi Hesaplama
+- Gebelik Hesaplama
+- Günlük Kalori İhtiyacı Hesaplama
+- Günlük Karbonhidrat İhtiyacı Hesaplama
+- Günlük Kreatin Dozu Hesaplama
+- Günlük Makro Besin İhtiyacı Hesaplama
+- Günlük Protein İhtiyacı Hesaplama
+- Günlük Su İhtiyacı Hesaplama
+- Günlük Yağ İhtiyacı Hesaplama
+- İdeal Kilo Hesaplama
+- Sigara Maliyeti Hesaplama
+- Sütyen Bedeni Hesaplama
+- Vücut Kitle Endeksi Hesaplama
+- Vücut Yağ Oranı Hesaplama
+- Yaşam Süresi Hesaplama
+- Yumurtlama Dönemi Hesaplama
+
+## Eğitim
+- Ders Notu Hesaplama
+- E-Okul Not Hesaplama
+- Lise Ders Puanı Hesaplama
+- Lise Mezuniyet Puanı Hesaplama
+- Lise Ortalama Hesaplama
+- Lise Sınıf Geçme Hesaplama
+- Lise YBP Hesaplama
+- Okula Başlama Yaşı Hesaplama
+- Takdir Teşekkür Hesaplama
+- Üniversite Not Ortalaması Hesaplama
+- Vize Final Ortalama Hesaplama
+
+## Sınav
+- AGS Puan Hesaplama
+- AKS Puan Hesaplama
+- ALES Puan Hesaplama
+- DGS Puan Hesaplama
+- DGS Taban Puanları Hesaplama
+- DİB MBSTS Puan Hesaplama
+- DUS Puan Hesaplama
+- Ehliyet Sınavı Puan Hesaplama
+- EKPSS Puan Hesaplama
+- EUS Puan Hesaplama
+- Hâkim ve Savcı Yrd. Sınavı Puan Hesaplama
+- HMGS Puan Hesaplama
+- İSG Puan Hesaplama
+- İYÖS Puan Hesaplama
+- KPSS Puan Hesaplama (P3, P10, P93, P94 ve P121 de dahil olmak üzere P1 ile P124 )
+- LGS Puan Hesaplama
+- Lise (LGS) Taban Puanları Hesaplama
+- MSÜ Puan Hesaplama
+- OBP Okul Puanı Hesaplama
+- ÖYP Puan Hesaplama
+- Özel Güvenlik Sınavı Puanı Hesaplama
+- PMYO Puan Hesaplama
+- POMEM Puan Hesaplama
+- PYBS Puan Hesaplama
+- TUS Puan Hesaplama
+- TYT Puan Hesaplama
+- Üniversite (YKS) Taban Puanları Hesaplama
+- YDS Puan Hesaplama
+- YDUS Puan Hesaplama
+- YKS Puan Hesaplama
+
+## Finans
+- Altın Hesaplama
+- Bileşik Büyüme Hesaplama
+- Birikim Hesaplama
+- Bono Hesaplama
+- Döviz Hesaplama
+- Enflasyon Hesaplama
+- Eurobond Hesaplama
+- Faiz Hesaplama
+- Geçmiş Altın Fiyatları Hesaplama
+- Geçmiş Döviz Kurları Hesaplama
+- IBAN Doğrulama
+- İç ve Dış İskonto Hesaplama
+- İç Verim Oranı Hesaplama
+- Kira Artış Oranı Hesaplama
+- Net Bugünkü Değer Hesaplama
+- Ortalama Vade Hesaplama
+- Parasal Değer Hesaplama
+- Reel Getiri Hesaplama
+- Repo Hesaplama
+- Sermaye ve Temettü Hesaplama
+- Tahvil Hesaplama
+- Vadeli İşlem Fiyatı Hesaplama
+- Vadeli Mevduat Faizi Hesaplama
+
+## Kredi
+- İhtiyaç Kredisi Hesaplama
+- İş Yeri Kredisi Hesaplama
+- Konut Kredisi Hesaplama
+- Kredi Hesaplama
+- Kredi Dosya Masrafı Hesaplama
+- Kredi Erken Kapatma Cezası Hesaplama
+- Kredi Gecikme Faizi Hesaplama
+- Kredi Kartı Asgari Ödeme Tutarı Hesaplama
+- Kredi Kartı Ek Taksit Hesaplama
+- Kredi Kartı Gecikme Faizi Hesaplama
+- Kredi Kartı İşlem Taksitlendirme Hesaplama
+- Kredi Kartı Taksitli Nakit Avans Hesaplama
+- Kredi Yapılandırma Hesaplama
+- Kredi Yıllık Maliyet Oranı Hesaplama
+- Ne Kadar Kredi Alabilirim Hesaplama
+- Taşıt Kredisi Hesaplama
+- Ticari Araç Kredisi Hesaplama
+- Ticari İhtiyaç Kredisi Hesaplama
+- Ticari Kredi Hesaplama
+
+
+
+<<<<<<<
+
+
+
+## Ticari
+- Arsa Payı Hesaplama
+- Online Barkod Oluşturucu
+- Desi Hesaplama
+- Detaylı Fiyat Hesaplama
+- İndirim İskonto Hesaplama
+- İnşaat Alanı Hesaplama
+- Kâr Tutarı Hesaplama
+- Ortalama Maliyet Hesaplama
+- Zam Hesaplama
+- Zarar Hesaplama
+- Emlakçı Komisyonu Hesaplama
+- Klima BTU Hesaplama
+- Trendyol Komisyon Hesaplama
+- Hepsiburada Komisyon Hesaplama
+- N11 Komisyon Hesaplama
+- Çiçek Sepeti Komisyon Hesaplama
+- Ptt Avm Komisyon Hesaplama
+- Aliexpress Komisyon Hesaplama
+- Amazon Komisyon Hesaplama
+- Shopier Komisyon Hesaplama
+- Metretül ve Duvar Alanı Hesaplama
+- Çim Sulama Saatleri Hesaplama
+- Fidan Dikim Mesafesi Hesaplama
+- Alkolde Kullanılacak Su Miktarı Hesaplama
+- Akü Tipine Göre Voltaj Hesaplama
+- Kırsalda Bereket Küçükbaşa Destek Hesaplama
+- Dropshipping Kâr Hesaplama
+- Pos Komisyon Hesaplama
+- Akarsu Eğimi (Gradyan) Hesaplama
+- Gübre Karışım Miktarı Hesaplama
+- Drenaj Yoğunluğu Hesaplama
+- Güneş Paneli (Solar Panel) İhtiyacı Hesaplama
+- Fayans, Seramik ve Parke Hesaplama
+- Basit Kiriş Sehim Hesaplama
+- Beton Sınıfına Göre Dayanıklılık Hesaplama
+- Kolon ve Kiriş Ön Boyutlandırma Hesaplama
+- Metreküp (m³) Hesaplama
+- Hilbert’in Sonsuz Otel Paradoksu Hesaplama
+- 3D Yazıcı Baskı Maliyeti Hesaplama
+- Güneş Paneli Amortisaman Hesaplama
+- İnternet Kota ve Veri Kullanımı Hesaplama
+- Zemin Taşıma Gücü Hesaplama
+- İnek Türlerine Göre Süt Verimliliği Hesaplama
+- İnek Tohumlama Tarihi Hesaplama
+- İnek Irkına Göre Gebelik Hesaplama
+- Kuruya Alma Tarihi Hesaplama
+- Besi Hayvanı Yem ve Ot Rasyon Hesaplama
+- İnek Günlük Yem Maliyeti Hesaplama
+- Kurbanlık Kilo Hesaplama
+- Tavuk Çiftliği Kurma Maliyeti Hesaplama
+- Alüminyum Sac Ağırlık Hesaplama
+- Kereste Metreküp Hesaplama
+- Donatı Alanı ve Metraj Hesaplama
+- Şev Stabilitesi (Toprak Kayması) Hesaplama
+- Merdiven Hesaplama
+- Bahçe Çim Alanı Maliyet Hesaplama
+- Marjinal Maliyet Hesaplama
+- Opsiyon Kâr Hesaplama
+- Asfalt Hesaplama
+- Metal Çatı Hesaplama
+- Çakıl Hesaplama
+- Malç Hesaplama
+- PH Hesaplama
+- Kum Hesaplama
+- Beton Hesaplama
+- Fayans Karo Hesaplama
+- Metrekare Başına Fiyat Hesaplama
+- Tuğla Hesaplama
+- Tahta Metrekare Hesaplama
+- Yük Sınıfı Hesaplama
+- LIFO ve FIFO Hesaplama
+- Verim Yüzdesi Hesaplama
+- Vorici Hesaplama
+- Altı Sigma Hesaplama
+- Verimlilik Hesaplama
+- Elektrik Potansiyeli Hesaplama
+- Amper Saat Hesaplama
+- Çatı Eğim Hesaplama
+- Arazi Büyüklüğü Hesaplama
+- Çelik Levha Ağırlık Hesaplama
+- Para İadesi Hesaplama
+- Yükseklik Sıkıştırması Hesaplama
+- Üst Toprak Hesaplama
+- Kaldırım Taşı Hesaplama
+- İstinat Duvarı Hesaplama
+- Güverte Kaplama Hesaplama
+- Sonotube Hesaplama
+- Karbüratör CFM Hesaplama
+- Yakıt Enjektör Hızı Hesaplama
+- Kontrplak Hesaplama
+- Döşeme ve Kalıp Hesaplama
+- Jant Ofset Hesaplama
+- Beton Temel Hesaplama
+- Beton Blok Dolgu Hesaplama
+- Korkuluk Hesaplama
+- Çit Hesaplama
+- Çit Boyası Hesaplama
+- Direk Kazık Çukuru Hesaplama
+- Alçıpan Hesaplama
+- Bina Vinil Kaplama Hesaplama
+- Çim Tohumu Hesaplama
+- Güverte Tahta Malzeme Hesaplama
+- Polimerik Kum Hesaplama
+- Betonarme Donatı Ağı Hesaplama
+- Beton Ağırlık Hesaplama
+- Tonaj Hesaplama
+- Log Ağırlık Hesaplama
+- Hisseli Tapu Hesaplama
+- Mısır Verim Hesaplama
+- Kompost Hesaplama
+- Litre Pount (LB) Dönüşümü Hesaplama
+- Kilogram Pound (LB) Dönüştürme Hesaplama
+- Sızdırmazlık Malzemesi Hesaplama
+- Fransız Drenaj Hesaplama
+- İnce Harç Hesaplama
+- Beton Merdiven Hesaplama
+- Mimari Kemer Hesaplama
+- Eğim Gerilimi Hesaplama
+- Kiriş Yükü Hesaplama
+- Kiriş Sapma Hesaplama
+- Civata Çemberi Hesaplama
+- Havşa Derinliği Hesaplama
+- Havuz Tuzu Hesaplama
+- Havuz Şok Hesaplama
+- Jeneratör Güç Hesaplama
+- Ayakta Çalışma Masası Yüksekliği Hesaplama
+- Toplantı Maliyeti Hesaplama
+- Karton Bardak OZ Hesaplama
+- Hidroelektrik Enerji Verimliliği Hesaplama
+- Rüzgar Türbini Verimlilik Hesaplama
+- Kapora ve Depozito Hesaplama
+- İşçi Maliyeti Hesaplama
+- İthalat Maliyeti Hesaplama
+- Müşteri Edinme Maliyeti (CAC) Hesaplama
+- Mantolama Maliyeti Hesaplama
+- Demir Hesaplama
+- Asma Tavan Maliyeti Hesaplama
+- Yüzme Havuzu Hacim ve Maliyet Hesaplama
+- Banyo Tadilat Maliyeti Hesaplama
+- Sıva Hesaplama
+- Kombi Kapasite Hesaplama
+- Şap Hesaplama
+- Tahıl Silosu Hesaplama
+- Çatı Kar Yükü Hesaplama
+- Yağış Hesaplama
+- Kamyon Taşımacılığı KM Başına Maliyet Hesaplama
+- Kargo Kutusu Hacimsel Ağırlık Hesaplama
+- Dönüm Ayak (Acre-Feet) Hesaplama
+- Yükseltilmiş Bahçe Yatağı Toprağı Hesaplama
+- Zarar Sonrası Toparlanma Oranı Hesaplama
+- Telif Geliri Hesaplama
+- Taşeron ve Çalışan Ücreti Hesaplama
+- Lastik Bileklik İçin Gerekli Bant Hesaplama
+- Tohum Ekim Tarihi Hesaplama
+- Epoksi Karışım Oranı Hesaplama
+- Su Isıtma Enerjisi Hesaplama
+- Kombi ve Termosifon Kazan Boyutu Hesaplama
+- İklime Göre İdeal Fırın Boyutu Hesaplama
+- Hortum Su Akış Debisi Hesaplama
+- Yağmur Suyu Toplama Hesaplama
+- Tüp Gaz Tüketim Hesaplama
+- Watt Saat Hesaplama
+- Su Sütunu Basınç Hesaplama
+- Batarya Çalışma Süresi Hesaplama
+- 18650 Batarya Paketi Hesaplama
+- Çimento Hesaplama
+- Kurban Yaşı Hesaplama
+- İSG Katip Dakikası Hesaplama
+- İSG İlkyardımcı ve Destek Elemanı Hesaplama
+- İSG Uzmanı ve İşyeri Hekimi Çalışma Süresi Hesaplama
+- Fine Kinney Risk Skoru Hesaplama
+- 5x5 L Tipi Matris Risk Skoru Hesaplama
+- Telefon Faturası Hesaplama
+- Elektrikli Cihaz CO2 Salınımı Hesaplama
+- Propan Tüpü Kullanım Hesaplama
+- Bradford Faktörü Hesaplama
+- Shopify Kâr Hesaplama
+- Kalorifer Kazanı Boyut Hesaplama
+- Tek Kullanım Elektrik Maliyeti Hesaplama
+- Cihaz Yıllık Elektrik Maliyeti Hesaplama
+- Birim Fiyat Karşılaştırma Hesaplama
+- Odaya Göre Klima Gücü HVAC BTU Hesaplama
+
+## Seyahat
+- Elektrikli Araç Şarj Hesaplama
+- Elektrikli Araç Şarj Hesaplama (Detaylı)
+- Tesla Şarj Maliyeti Hesaplama
+- En Ucuz Otobüs Bileti Fiyatı Hesaplama
+- En Ucuz Uçak Bileti
+- İller Arası Mesafe Hesaplama
+- Şehirler Arası Yakıt ve Mesafe Hesaplama
+- Mesafe Hesaplama
+- Yol Tarifi Hesaplama
+- Detaylı Yol Tarifi Hesaplama
+- Kıble Yönü Hesaplama
+- İl ve İlçeye Göre Kıble Yönü Hesaplama
+- Otel Fiyatı Hesaplama
+- Taksi Ücreti Hesaplama
+- Yakıt Tüketimi Hesaplama
+- Araç Klima Yakıt Tüketimi Hesaplama
+- Uçuş Süresi Hesaplama
+- Uçuş Ayak İzi Hesaplama
+- Miles&Smiles Mil Puan ve Üyelik Hesaplama
+- Karavan Maliyet Hesaplama
+- Metrobüs Durakları Arası Dakika Hesaplama
+- Marmaray Durakları Arası Mesafe Hesaplama
+- Tramvay Durakları Arası Mesafe Hesaplama
+- Seyahat Masraf Bölüşme Hesaplayıcı
+- Tako Süresi Hesaplama
+- Yolculuk Mola Süresi Hesaplama
+- Sürüş Süresi Hesaplama
+- Zaman ve Mesafeden Ortalama Hız Hesaplama
+- Seferi Durum İçin İbadet Hesaplama
+- Jant Lastik Hesaplama
+- Fren Mesafesi Hesaplama
+- Lastik Ölçüsüne Göre Doğru Hava Basıncı (PSI)
+- Silca Lastik Basıncı Hesaplama
+- Terminus Hesaplama
+- Bisiklet Boyu Hesaplama
+- Bisiklet Kadans ve Hız Hesaplama
+- Bisiklet Vites Hesaplama
+- Bisiklet Hız Hesaplama
+- Elektrikli Bisiklet Menzil Hesaplama
+- Bisiklet Watt Hesaplama
+- Rüzgar Soğukluğu Hesaplama
+- Taşıt Emisyon Değeri Hesaplama
+- Motor Devir Dakika Hesaplayıcı
+- Şuanki Konum Hesaplaması
+- Koordinat Hesaplama
+- Araç Değer Kaybı Hesaplama
+- ISO 3758 Standartlı Çamaşır Makinesi Yıkama Hesaplayıcı
+- Alkol Promil Hesaplama
+
+## Sigorta
+- DASK Prim Hesaplama
+- Trafik Sigortası Hesaplama
+- Doğum Borçlanması Hesaplama
+- Bağkur Prim Hesaplama
+- İnşaat All Risk Sigortası Hesaplama
+- Kira Kefalet Sigortası Primi Hesaplama
+- Eksik Sigorta Tazminat Hesaplama
+- Nakliye Sigortası Primi (Emtia) Hesaplama
+- TARSİM Tarım Sigortası Destek Primi Hesaplama
+- Sigorta Hasarsızlık İndirimi Hesaplama
+- Mesleki Sorumluluk Sigortası Primi Hesaplama
+- Tamamlayıcı Sağlık Sigortası (TSS) Primi Hesaplama
+- İşveren Sorumluluk Sigortası Prim Hesaplama
+- İşyeri Yangın Sigortası Primi Hesaplama
+- Kasko Değeri Hesaplama
+- Sağlık Sigortası Hesaplama
+
+## Hukuk
+- Arabuluculuk Ücreti Hesaplama
+- İcra Masrafı Hesaplama
+- Hukuki Süre Hesaplama
+- E-tebligat Tebliğ Tarihi Hesaplama
+- Uzlaştırmacı Ücreti Hesaplama
+- Vekâlet Ücreti Hesaplama
+- Yasal Faiz Hesaplama
+- İş Mahkemesi Yasal Faiz Hesaplama
+- Kat İrtifakı (Arsa Payı) Hesaplama
+- Sendikal Tazminat Hesaplama
+- İş Kazası Tazminatı Hesaplama
+- İşçi Alacakları Brütten Nete Hesaplama
+- İşçilik Ücretleri (UBGT) Hesaplama
+- Saklı Pay ve Tenkis Hesaplama
+- Ceza Dava Zaman Aşımı Hesaplama
+- İşe İade DAVASI Tazminatı Hesaplama
+- Destekten Yoksun Kalma Tazminatı Hesaplama
+- Mobbing Tazminatı Hesaplama
+- Tüketici Hakem Heyeti Parasal Sınır Hesaplama
+- Cezaevi Yatış Süresi Hesaplama
+- Nafaka Hesaplama
+- Manevi Tazminat Hesaplama
+- Maaş Haciz Hesaplama
+
+## Tekstil
+- Kumaş Cinsine Uygun Makine Hesaplama
+- İplik Numarası Dönüştürme Hesaplaması
+- Kumaş Üretimi Hesaplama
+- Tekstil Çeki Listesi Oluşturucu
+- Pastal Raporuna Göre Kumaş İhtiyacı Hesaplama
+- Konfeksiyon Dikim Maliyeti Hesaplama
+- Tekstil Baskı Fason Fiyat Hesaplama
+- Tekstil Birim Çevirme Hesaplama
+- Kadın Giyim İçin Beden Ölçüsü Hesaplama
+- Pantolon Bedeni Hesaplama
+- Ceket Beden Hesaplama
+- Ayakkabı Bağcığı Hesaplama
+- Şapka Bedeni Hesaplama
+- Eldiven Bedeni Hesaplama
+- Daire Etek Kumaş Hesaplama
+- Bikini Beden Hesaplama
+- Kumaş GSM Gramaj Hesaplama
+- EPI İnç Başına Çözgü Tel Adeti Hesaplama
+- İnç Başına Atkı Tel Adeti Hesaplama
+- Kumaş Dokuma Faktörü (EPI-PPI) Hesaplama
+- Çözgü İpliği Büzülme Yüzdesi Hesaplama
+- Atkı İpliği Büzülme Yüzdesi Hesaplama
+- Kumaş En Çekmesi Hesaplama
+- Kumaş Boy Çekmesi Hesaplama
+- Metre Başına Kumaş Ağırlığı Hesaplama
