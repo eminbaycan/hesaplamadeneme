@@ -1,0 +1,8 @@
+{
+  "name": "Hesaplamalar Sitesi",
+  "description": "Kullanıcıların matematiksel problemleri kolayca çözmelerini sağlayan, modüler ve hızlı hesaplama araçları platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
